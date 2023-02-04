@@ -4,7 +4,7 @@ Ehre
 This is Ehre - a standard-compliant implementation of Chlore.
 
 #### Ehre can currently target: ####
-- nightVM (QSM)
+- nightVM (YSM)
 
 #### In the future Ehre will be able to target: ####
 - SUBLEQ
