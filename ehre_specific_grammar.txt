@@ -7,8 +7,8 @@ A colon (:) following a non-terminal introduces its definition. If a plus (+) pr
 [Lexical grammar]:
 
 +keyword: one of
-  `open` `invoke`
+  `open` `invoke` `pushpc` `pushcs`
 
 +instruction: one of
-  `open` `invoke`
+  `open` `invoke` `pushpc` `pushcs`
 
